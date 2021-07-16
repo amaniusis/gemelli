@@ -10,7 +10,6 @@ Introduction to Computer Science: Harvard CS50x (https://cs50.harvard.edu/x/2021
 Introduction to Database Design: Database Design for Mere Mortals: 25th Anniversary Edition, 4th Edition (https://3lib.net/book/16352060/f49fed)    
 
 Technical Skills
-
 Introduction to Python
 Introduction to SQL
 
