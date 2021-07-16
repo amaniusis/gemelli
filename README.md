@@ -12,7 +12,7 @@ Introduction to Database Design: Database Design for Mere Mortals: 25th Annivers
 Technical Skills
 
 Introduction to Python
-Introduction to SQL:
+Introduction to SQL
 
 Project:
 Acquire global economic trade statistics and prepare a country-wise analysis on import/export data that would be published on the web.
