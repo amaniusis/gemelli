@@ -8,7 +8,9 @@ Introduction to Computer Science: Harvard CS50x (https://cs50.harvard.edu/x/2021
 Introduction to Database Design: Database Design for Mere Mortals: 25th Anniversary Edition, 4th Edition (https://3lib.net/book/16352060/f49fed)    
 
 Introduction to Python
+
 Setting up VSCode for Python by Corey Schafer (https://www.youtube.com/watch?v=-nh9rCzPJ20&t=74s)
+
 Python Pandas Tutorial by Corey Schafer (https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 Introduction to SQL
