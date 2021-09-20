@@ -22,11 +22,28 @@ Acquire global economic trade statistics and prepare a country-wise analysis on 
 
 **Data Sources:**
 
-World Bank
-OECD
+World Bank 
 
+OECD: API (JSON)
+
+Format URL for API call: http://stats.oecd.org/SDMX-JSON/data/<dataset identifier>/<filter expression>/<agency name>[ ?<additional parameters>]
+Variables: dataset identifier; filter expression; agency name; optional parameters: startPeriod, endPeriod; dimensionAtObservation; detail;
+UpdatedAfter
+  
+Dataset: Monthly International Merchandise Trade (IMTS)
+Data API Call:  https://stats.oecd.org/SDMX-JSON/data/MEI_TRD/XTEXVA01+XTIMVA01+XTNTVA01.AUS+AUT+BEL+CAN+CHL+COL+CRI+CZE+DNK+EST+FIN+FRA+DEU+GRC+HUN+ISL+IRL+ISR+ITA+JPN+KOR+LVA+LTU+LUX+MEX+NLD+NZL+NOR+POL+PRT+SVK+SVN+ESP+SWE+CHE+TUR+GBR+USA+EA19+EU27_2020+G-7+OECD+NMEC+ARG+BRA+CHN+IND+IDN+RUS+SAU+ZAF+BRIICS.CXMLSA+CXML+NCMLSA+NCML+GPSA+GYSA.M/all?startTime=2014-01&endTime=2021-08&pid=27d76367-1c01-4c81-962a-2dc28bb01fc6
+
+!!!To think how to check for the updates of the data
+
+Structure query: https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/MEI_TRD?pid=27d76367-1c01-4c81-962a-2dc28bb01fc6
+  
+  
+  
+  
 **Learning objectives:**
 1. ETL pipe from a data source to local database.
 2. Data manipulation.
 3. Good code codumentation and best code practices.
 4. Set up a website and publish infographics.
+
+
