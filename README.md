@@ -1,7 +1,7 @@
 # gemelli
 Programming learning resources and an economic data project.
 
-##Learning Materials
+## Learning Materials
 
 
 [Introduction to Computer Science: Harvard CS50x](https://cs50.harvard.edu/x/2021/)
@@ -16,7 +16,7 @@ Programming learning resources and an economic data project.
 
 **Introduction to SQL -> to add**
 
-##Project:
+## Project:
 
 Acquire global economic trade statistics and prepare a country-wise overview of import and export data that would be published on the web.
 
