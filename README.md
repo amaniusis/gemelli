@@ -1,7 +1,8 @@
 # gemelli
 Programming learning resources and an economic data project.
 
-##**Learning Materials**
+##Learning Materials
+
 
 [Introduction to Computer Science: Harvard CS50x](https://cs50.harvard.edu/x/2021/)
 
@@ -13,20 +14,27 @@ Programming learning resources and an economic data project.
 
 [Python Pandas Tutorial by Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
-Introduction to SQL -> to add
+**Introduction to SQL -> to add**
 
-##**Project:**
+##Project:
 
 Acquire global economic trade statistics and prepare a country-wise overview of import and export data that would be published on the web.
 
 **Data Sources:**
 
-World Bank 
+- World Bank 
 
-OECD: API (JSON)
+- OECD: API (JSON)
 
-Format URL for API call: http://stats.oecd.org/SDMX-JSON/data/<dataset identifier>/<filter expression>/<agency name>[ ?<additional parameters>]
-Variables: dataset identifier; filter expression; agency name; optional parameters: startPeriod, endPeriod; dimensionAtObservation; detail;
+Format URL for API call: `http://stats.oecd.org/SDMX-JSON/data/<dataset identifier>/<filter expression>/<agency name>[ ?<additional parameters>]`
+
+Variables: 
+- dataset identifier; 
+- filter expression;
+- agency name;
+
+- optional parameters: startPeriod, endPeriod; dimensionAtObservation; detail;
+
 UpdatedAfter
   
 Dataset: Monthly International Merchandise Trade (IMTS)
