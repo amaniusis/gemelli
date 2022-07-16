@@ -14,6 +14,8 @@ Programming learning resources and an economic data project.
 
 [Python Pandas Tutorial by Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
+[Python Tutorial: How to Create 'venv'](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
+
 **Introduction to SQL -> to add**
 
 ## Project:
